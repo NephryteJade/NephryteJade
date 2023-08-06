@@ -6,7 +6,7 @@
 - Jade.LightOff Projects Series
 - Jade.Zone Projects Series
 - Jade.Dust Projects Series
-- .Jade Framework
+- .Jade Framework Projects Series
 
 <!---
 NephryteJade/NephryteJade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
