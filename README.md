@@ -1,8 +1,8 @@
 # 九珏良制工作室 Nephryte.Jade Studio
 ## 项目 Projects
 - Jade.On Project
-- Jade.Sweet Projects Series
-- Jade.SweetX Projects Series
+- Jade.Acid Projects Series
+- Jade.Alkali Projects Series
 - Jade.LightOff Projects Series
 - Jade.Zone Projects Series
 - Jade.Dust Projects Series
