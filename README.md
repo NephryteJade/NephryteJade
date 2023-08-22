@@ -1,11 +1,14 @@
 # 九珏良制工作室 Nephryte.Jade Studio
 ## 项目 Projects
-- Jade.On Project
+- Jade.Essential Project
 - Jade.Acid Projects Series
 - Jade.Alkali Projects Series
-- Jade.LightOff Projects Series
+- Jade.Direct Projects Series
 - Jade.Zone Projects Series
-- Jade.Dust Projects Series
+- Jade.Key Projects Series
+- Jade.Mirror Projects Series
+- Jade.Field Projects Series
+- Jade.Control Projects Series
 - .Jade Framework Projects Series
 
 <!---
