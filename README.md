@@ -1,23 +1,23 @@
 ### Nephryte.Jade Studio
 # 九珏良制工作室
 ---
-## 项目 Projects
-- Jade.Core Project
+## Projects 丨 项目
+### * Jade.Core Project
 > - InnerPermafrost 丨 雪中赐丹梅古书
-- Jade.Acid Projects Series
+### * Jade.Acid Projects Series
 > - 4Fields 丨 四方账书
 > - Direct 丨
 > - Key 丨
-- Jade.Alkali Projects Series
+### * Jade.Alkali Projects Series
 > - Control 丨
 > - On 丨
 > - Set 丨
 > - Tick 丨
-- Jade.Zone Projects Series
-- Jade.Essential Projects Series
-- Jade.Study Projects Series
-- Jade.Mirror Projects Series
-- .J Framework Projects Series
+### * Jade.Zone Projects Series
+### * Jade.Essential Projects Series
+### * Jade.Study Projects Series
+### * Jade.Mirror Projects Series
+### * .J Framework Projects Series
 > - .J Framework Unity Edition
 > - .J Framework Wpf Edition
 
