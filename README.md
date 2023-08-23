@@ -17,9 +17,9 @@
 - Jade.Essential Projects Series
 - Jade.Study Projects Series
 - Jade.Mirror Projects Series
-- .Jade Framework Projects Series
-> - .Jade Framework for Unity
-> - .Jade Framework for Wpf
+- .J Framework Projects Series
+> - .J Framework Unity Edition
+> - .J Framework Wpf Edition
 
 <!---
 NephryteJade/NephryteJade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
