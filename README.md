@@ -18,8 +18,8 @@
 ### * Jade.Study Projects Series
 ### * Jade.Mirror Projects Series
 ### * .J Framework Projects Series
-> - .J Framework Unity Edition
-> - .J Framework Wpf Edition
+> - .Neph Ring Framework
+> - .Neph 1dDs Framework
 
 <!---
 NephryteJade/NephryteJade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
