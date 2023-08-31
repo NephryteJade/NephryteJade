@@ -20,7 +20,7 @@
 ## 主题
 - 创意至上（设计框架就是为了最大程度方便后期添加功能）
 - 新时代开放式自适应上班（~不定期开鸽~）
-- 长期支持（丹梅古书将会是唯一且长期的主项目）
+- 长期支持（寒商地将会是唯一且长期的主项目）
 - 强迫症派（看哪里不顺眼重构哪里）
 - 改名部（看哪里不顺眼改名哪里）
 ## 题外话
@@ -31,7 +31,7 @@
 - 项目命名规范
 > 正式情况下所有文件均以Nephryte.Jade.开头，若是子项目则再包含系列名。
 >
-> 例丹梅古书全称则为Nephryte.Jade.Core.InnerPermafrost。
+> 例寒商地全称则为Nephryte.Jade.Core.1nnerPermafrost。
 >
 > 非正式情况或单纯为了缩写方便，一般省略Nephryte.或者Jade.也一同省略。
 >
@@ -40,21 +40,20 @@
 > 对比起通常工作室而言，六珏的项目产出会相对非常的慢。一方面是独立制作的原因（~真就一人~），一方面是正式工作的原因。（暂时还未离职，可能以后会考虑）
 - 关于作者
 > Provence或者说普罗旺斯，这个名字很好听我很喜欢。
-- 丹梅古书的名字
-> 可能有人会觉得丹梅古书的名字太长了。那是因为还没听过改版前的名字...
+- 寒商地的名字
+> 可能有人会觉得寒商地的名字太长了。那是因为还没听过改版前的名字...
 > 
 > 譬如，
 >
-> - 赐 · 晚夜雪中国、赤红雪书
-> - 赐 · 雪中国、赤红守夜人
-> - 寄 · 晚夜雪中国红梅赠书
-> - 寄 · 凌月雪中国故人敬启
-> - 念深、雪中函札、寄梅书
-> - 寄 · 凌月雪中国赐丹梅书
+> - 赐·晚夜雪中国、寄梅书
+> - 念·晚夜雪中、凛冬守望人
+> - 凌月雪中、寄红梅雪书
+> - 凌月雪中国故人敬启此札
+> - 久月寒商来讯、丹梅一支
 >
-> 不用想名字是什么意思，其实就是凛冬盛放的红梅。（~切勿阅读理解~）
+> 不用想名字是什么意思，其实就是凛冬盛放的红梅。
 > 
-> 英文的话，想想太长不太好，就用Permafrost代表寒商地，InnerPermafrost就意为在寒商地之中，即探索寒商地中的秘密。
+> 英文的话，想想太长不太好，就用Permafrost代表寒商地，InnerPermafrost就意为在寒商地之中，即探索寒商地中的秘密。（~1呢，不知道可能随便写的~）
 ## 鸣谢
 - .Net（微软大法好）
 - Github、VS...（总之就是微软大法好）
@@ -63,7 +62,7 @@
 - 各种创意来源启发
 ## 项目
 ### Nephryte.Jade.Core Project
-> - InnerPermafrost 丨 寄 · 雪中赐丹梅古书
+> - 1nnerPermafrost 丨 凌月梅吹雪落入寒云山涧（寒商地）
 ### Nephryte.Jade.Acid Projects Series
 > - 4Fields 丨 四方账书
 > - Direct 丨
@@ -78,8 +77,8 @@
 ### Nephryte.Jade.Study Projects Series
 ### Nephryte.Jade.Mirror Projects Series
 ### .Neph Framework Projects Series
-> - .Neph Ring Framework
-> - .Neph 1dDs Framework
+> - .Neph.O.R.UDds Framework 世界树与星环
+> - .Neph.Maui.UDds Framework 卯微
 
 <!---
 NephryteJade/NephryteJade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
