@@ -74,11 +74,12 @@
 > - Tick 丨
 ### Nephryte.Jade.Zone Projects Series
 ### Nephryte.Jade.Essential Projects Series
-### Nephryte.Jade.Study Projects Series
+### Nephryte.Jade.Edu Projects Series
+> - Dust 丨 尘记
 ### Nephryte.Jade.Mirror Projects Series
 ### .Neph Framework Projects Series
-> - .Neph.O.R.UDds Framework 世界树与星环
-> - .Neph.Maui.UDds Framework 卯微
+> - .Neph.O.R.UDdS Framework 丨 世界树与星环
+> - .Neph.Maui.UDdS Framework 丨 卯微
 
 <!---
 NephryteJade/NephryteJade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
