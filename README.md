@@ -21,6 +21,7 @@
 | Cadence         | Alkali     | -               | No          | In development      |
 | Direct          | Alkali     | -               | No          | In development      |
 | Saved           | Edu        | -               | LTS         | Always update       |
+| AwesomeJade     | Edu        | -               | LTS         | Always update       |
 | Catastrophe     | .Neph      | -               | LTS         | Maintenence         |
 | StellarRing     | .Neph      | -               | LTS         | Maintenence         |
 ## Series
@@ -44,13 +45,13 @@
   > Documentation  
   > Maintenence
 - **Nephryte.Jade.Edu**
-  > Open source  
-  > Collection of *free unit*
-  > For beginner
-  > Helpful tips
-  > Awesome apps
+  > Open source   
+  > Collection of *free unit*   
+  > For beginner  
+  > Helpful tips  
+  > Awesome apps  
 - **Nephryte.Jade.Mirror**
-  > Test program
+  > Test program  
   > Creativity first
 - **Nephryte.Jade.Triangle**
   > VR program
